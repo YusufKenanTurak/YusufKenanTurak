@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kenan</h1>
 <h3 align="center">AI and Web developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React, NextJS**
+- 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Diffusion**
 
-- 💬 Ask me about **React, JS, Image Processing, Object Detection, Semantic Segmentation, GaN methods**
+- 💬 Ask me about **React, JS, NextJS, Image Processing, Object Detection, Semantic Segmentation, GaN methods**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ykenant/**
 
