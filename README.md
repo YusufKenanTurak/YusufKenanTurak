@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kenan</h1>
 <h3 align="center">AI and Web developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Flutter and Firebase**
+- 🔭 I’m currently working on **React, .NET API, Python and OpenAI**
 
-- 🌱 I’m currently learning **Diffusion**
+- 🌱 I’m currently learning **LLM models**
 
-- 💬 Ask me about **.net Core, Axapta, PostgreSQL, MSSQL, React, JS, NextJS, Image Processing, Object Detection, Semantic Segmentation, GaN methods**
+- 💬 Ask me about **Python, .net Core, Axapta, PostgreSQL, MSSQL, React, JS, NextJS, Image Processing, Object Detection, Semantic Segmentation, GaN methods**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ykenant/**
 
